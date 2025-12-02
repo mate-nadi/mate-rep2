@@ -1,2 +1,3 @@
 # mate-rep2
-this is the real repository
+This is my first repository.
+I am looking forward to learning more.
